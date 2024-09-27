@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑🏻‍💻 About Me:
 🔭 Currently focused on enhancing my skills through collaborative projects with teams and personal ventures.<br>👯 Seeking opportunities to collaborate on development projects.<br>🤝 Looking to improve my ability to work effectively in teams.<br>🌱 Actively learning full-stack development skills.<br>💬 Open to project collaborations and networking opportunities.<br>⚡ Passionate about acquiring new skills and delivering my best. I value connecting with like-minded individuals eager to make an impact.
 
 
